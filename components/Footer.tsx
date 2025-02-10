@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="padding-container max-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10">
-            <Image src="Travalix-bg.svg" alt="logo" width={104} height={29} />
+            <Image src="travalix-bg.svg" alt="logo" width={104} height={29} />
           </Link>
 
           <div className="flex flex-wrap gap-10 sm:justify-between md:flex-1">
